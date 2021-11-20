@@ -1,0 +1,33 @@
+
+<resources>
+    <string name="app_name"></string>
+    <!-- Create Form -->
+    <string name="property_type">Property Type</string>
+
+    <string name="bedroom">Bedroom</string>
+    <string name="date_time">Date &amp; time</string>
+    <string name="monthly_price">Monthly Price</string>
+    <string name="suffix">$</string>
+    <string name="furniture_type">Furniture Type</string>
+    <string name="note">Note</string>
+    <string name="name_of_reporter">Name of Reporter</string>
+    <string name="item_bed">Studio</string>
+    <string name="btn_submit">Submit</string>
+
+    <!-- Validate  -->
+    <string name="validate_property_error">Please Choose a property type.</string>
+    <string name="validate_bedrooms_error">Please Choose Bedroom.</string>
+    <string name="validate_date_time_error">Please Choose date and time.</string>
+    <string name="validate_furniture_error">Please Choose Furniture</string>
+    <string name="validate_price">Please Enter a monthly price.</string>
+    <string name="validate_reporter">Please Enter your name.</string>
+    <string name="empty_form">Please fill out these fields to created.</string>
+
+    <!-- Alert dialog -->
+    <string name="confirm_btn">Confirm</string>
+    <string name="back_btn">Back</string>
+    <string name="result_toast">Submitted successful.</string>
+    <string name="fail_toast">Error submitted</string>
+    <string name="btn_clear">Reset</string>
+    <string name="todo">RentalZ</string>
+</resources>
